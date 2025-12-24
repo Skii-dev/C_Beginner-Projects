@@ -31,7 +31,7 @@ Welcome to my C programming portfolio! This repository is a structured collectio
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/EkehOsinachiDivine/C_Beginner-Projects.git](https://github.com/EkehOsinachiDivine/C_Beginner-Projects.git)
+    git clone [https://github.com/Skii-dev/C_Beginner-Projects.git](https://github.com/Skii-dev/C_Beginner-Projects.git))
     ```
 2.  **Open in CLion:**
     * Open CLion and select "Open Project."
@@ -49,4 +49,8 @@ Welcome to my C programming portfolio! This repository is a structured collectio
 - [ ] Transition into Data Structures (Linked Lists, Stacks).
 
 ---
-**Connect with me:** [GitHub Profile](https://github.com/EkehOsinachiDivine)
+### 📫 Connect with me
+- **GitHub:** [Skii-dev](https://github.com/Skii-dev)
+- **Portfolio:** Check out my repositories for my latest work!
+
+---
