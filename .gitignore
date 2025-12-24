@@ -1,0 +1,16 @@
+# Ignore IDE settings in any subfolder
+**/.idea/
+
+# Ignore build folders in any subfolder
+**/cmake-build-debug/
+**/cmake-build-release/
+**/build/
+
+# Ignore all executables anywhere
+**/*.exe
+**/*.out
+**/*.app
+
+# System files
+.DS_Store
+Thumbs.db
