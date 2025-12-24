@@ -31,7 +31,7 @@ Welcome to my C programming portfolio! This repository is a structured collectio
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/Skii-dev/C_Beginner-Projects.git](https://github.com/Skii-dev/C_Beginner-Projects.git))
+    git clone [https://github.com/Skii-dev/C_Beginner-Projects.git](https://github.com/Skii-dev/C_Beginner-Projects.git)
     ```
 2.  **Open in CLion:**
     * Open CLion and select "Open Project."
