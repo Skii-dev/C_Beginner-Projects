@@ -1,5 +1,5 @@
 # C Beginner Projects
-### 👨‍💻 Developed by Ekeh Osinachi Divine
+### 👨‍💻 Developed by Ekeh Divine
 
 Welcome to my C programming portfolio! This repository is a structured collection of projects I've built to master the fundamentals of C, from basic logic to complex system-based problem solving. 
 
@@ -7,27 +7,23 @@ Welcome to my C programming portfolio! This repository is a structured collectio
 
 ## 📂 Project Showcase
 
-| Project Folder | Description | Core Concepts |
-| :--- | :--- | :--- |
-| **AgeChecker** | Validates user age for eligibility. | Conditional Logic (`if/else`) |
-| **AreaOfCircleCalculator** | Geometric computation tool. | Math Functions, Constants |
-| **CompoundInterestCalculator** | Financial math simulator. | Loops, Power (`pow`) Functions |
-| **LogInSystem** | Basic secure access simulation. | String Handling, Validation |
-| **StudentGradingSystem** | Automates academic grading. | Switch-case, Logical Operators |
-| **StudentSiwesEmailGenerator**| Auto-formats institutional emails. | String Manipulation |
-| **TempConverter** | Celsius/Fahrenheit utility. | Floating Point Arithmetic |
-| **WeightConverter** | Unit conversion application. | User Input, Calculations |
+| Project                        | Description                         | Core Concepts                           |
+|:-------------------------------|:------------------------------------|:----------------------------------------|
+| **AgeChecker**                 | Validates user age for eligibility. | Conditional Logic (`if/else`)           |
+| **AreaOfCircleCalculator**     | Geometric computation tool.         | Math Functions, Constants               |
+| **CompoundInterestCalculator** | Financial math simulator.           | User Input, Power (`pow`), Calculations |
+| **LogInSystem**                | Basic secure access simulation.     | String Handling, Validation             |
+| **StudentGradingSystem**       | Automates academic grading.         | Logical Operators                       |
+| **StudentSiwesEmailGenerator** | Auto-generates Siwes emails.        | String Manipulation                     |
+| **TempConverter**              | Celsius/Fahrenheit utility.         | Floating Point Arithmetic               |
+| **WeightConverter**            | Unit conversion application.        | User Input, Calculations                |
+| **CgpaCalculator**             | 3 Courses cgpa Calculator.          | User Input, Calculations,               |
 
 ---
 
-## 🛠️ Technical Environment
 
-* **Language:** C (C11/C17)
-* **IDE:** CLion (JetBrains)
-* **Build System:** CMake
-* **Version Control:** Git (Optimized with a custom `.gitignore`)
 
-## 🚀 How to Run My Projects
+##  How to Run My Projects
 
 1.  **Clone the repository:**
     ```bash
