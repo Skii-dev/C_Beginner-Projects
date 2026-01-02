@@ -40,7 +40,7 @@ int main() {
             }
             break;
             default:
-            printf("Please Enter Valid Operator(+, -, *, /)\n");
+            printf("Please Enter Valid Operator(+, -, *, /).\n");
     }
 
 
