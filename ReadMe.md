@@ -7,18 +7,19 @@ Welcome to my C programming portfolio! This repository is a structured collectio
 
 ## 📂 Project Showcase
 
-| Project                        | Description                         | Core Concepts                                         |
-|:-------------------------------|:------------------------------------|:------------------------------------------------------|
-| **AgeChecker**                 | Validates user age for eligibility. | Conditional Logic (`if/else`)                         |
-| **AreaOfCircleCalculator**     | Geometric computation tool.         | Math Functions, Constants                             |
-| **CompoundInterestCalculator** | Financial math simulator.           | User Input, Power (`pow`), Calculations               |
-| **LogInSystem**                | Basic secure access simulation.     | String Handling, Validation                           |
-| **StudentGradingSystem**       | Automates academic grading.         | Logical Operators                                     |
-| **StudentSiwesEmailGenerator** | Auto-generates Siwes emails.        | String Manipulation                                   |
-| **TempConverter**              | Celsius/Fahrenheit utility.         | Floating Point Arithmetic                             |
-| **WeightConverter**            | Unit conversion application.        | User Input, Calculations                              |
-| **CgpaCalculator**             | 3 Courses cgpa Calculator.          | User Input, Calculations,                             |
-| **SimpleBasicCalculator**      | Simple basic arithemetic Calulator. | User Input, Operators, Switches, nested if statements |
+| Project                        | Description                         | Core Concepts                                                                                 |
+|:-------------------------------|:------------------------------------|:----------------------------------------------------------------------------------------------|
+| **AgeChecker**                 | Validates user age for eligibility. | Conditional Logic (`if/else`)                                                                 |
+| **AreaOfCircleCalculator**     | Geometric computation tool.         | Math Functions, Constants                                                                     |
+| **CompoundInterestCalculator** | Financial math simulator.           | User Input, Power (`pow`), Calculations                                                       |
+| **LogInSystem**                | Basic secure access simulation.     | Integer Handling,Read Inputs, Formats Specifiers,Validation,Conditional Logic (`if/else`)     |
+| **SignUpLoginSystem**          | More advanced secure access(Basic). | Input,Integer Handling,Format specifiers,Validation,Read Inputs,Conditional Logic (`if/else`) |
+| **StudentGradingSystem**       | Automates academic grading.         | Logical Operators                                                                             |
+| **StudentSiwesEmailGenerator** | Auto-generates Siwes emails.        | String Manipulation                                                                           |
+| **TempConverter**              | Celsius/Fahrenheit utility.         | Floating Point Arithmetic                                                                     |
+| **WeightConverter**            | Unit conversion application.        | User Input, Calculations                                                                      |
+| **CgpaCalculator**             | 3 Courses cgpa Calculator.          | User Input, Calculations,                                                                     |
+| **SimpleBasicCalculator**      | Simple basic arithemetic Calulator. | User Input, Operators, Switches, nested if statements                                         |
 
 ---
 
