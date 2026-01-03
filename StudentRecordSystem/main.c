@@ -211,7 +211,7 @@ void calculateAverage() {
 
 void sortAscending() {
     for (int i = 0; i < count; i++)
-        for (int j = i + 1; j < count; j++)
+        for (int j = i + 1; j < count; j++) //Nested Loops
             if (students[i].marks > students[j].marks) {
                 Student t = students[i];
                 students[i] = students[j];
@@ -222,7 +222,7 @@ void sortAscending() {
 
 void sortDescending() {
     for (int i = 0; i < count; i++)
-        for (int j = i + 1; j < count; j++)
+        for (int j = i + 1; j < count; j++) //Nested Loops
             if (students[i].marks < students[j].marks) {
                 Student t = students[i];
                 students[i] = students[j];
