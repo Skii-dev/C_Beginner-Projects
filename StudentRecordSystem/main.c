@@ -11,7 +11,7 @@ typedef struct {
 Student *students = NULL;
 int count = 0;
 
-// Function declarations
+//Function Prototypes
 void addStudent();
 void displayStudents();
 void modifyStudent();
@@ -30,6 +30,7 @@ int main() {
     printf("Enter your name: ");
     fgets(username, sizeof(username), stdin);
     username[strcspn(username, "\n")] = 0;
+
     printf("Hello %s! Let's begin...\n\n", username);
 
     int choice;
@@ -70,7 +71,7 @@ int main() {
         }
     }
 }
-
+// Function Definitions
 void addStudent() {
     students = realloc(students, (count + 1) * sizeof(Student));
 
@@ -86,17 +87,17 @@ void addStudent() {
     scanf("%f", &students[count].marks);
 
     if (students[count].marks >= 40)
-        printf("Status: PASS\n");
+        printf("Status: STUDENT PASSED\n");
     else
-        printf("Status: FAIL\n");
+        printf("Status: STUDENT FAILED\n");
 
     count++;
-    printf("Student added successfully!\n");
+    printf("Student Added Successfully!\n");
 }
 
 void displayStudents() {
     if (count == 0) {
-        printf("No records available.\n");
+        printf("No Records Available.\n");
         return;
     }
 
