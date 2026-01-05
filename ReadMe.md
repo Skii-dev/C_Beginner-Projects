@@ -7,19 +7,21 @@ Welcome to my C programming portfolio! This repository is a structured collectio
 
 ## 📂 Project Showcase
 
-| Project                        | Description                         | Core Concepts                                                                                 |
-|:-------------------------------|:------------------------------------|:----------------------------------------------------------------------------------------------|
-| **AgeChecker**                 | Validates user age for eligibility. | Conditional Logic (`if/else`)                                                                 |
-| **AreaOfCircleCalculator**     | Geometric computation tool.         | Math Functions, Constants                                                                     |
-| **CompoundInterestCalculator** | Financial math simulator.           | User Input, Power (`pow`), Calculations                                                       |
-| **LogInSystem**                | Basic secure access simulation.     | Integer Handling,Read Inputs, Formats Specifiers,Validation,Conditional Logic (`if/else`)     |
-| **SignUpLoginSystem**          | More advanced secure access(Basic). | Input,Integer Handling,Format specifiers,Validation,Read Inputs,Conditional Logic (`if/else`) |
-| **StudentGradingSystem**       | Automates academic grading.         | Logical Operators                                                                             |
-| **StudentSiwesEmailGenerator** | Auto-generates Siwes emails.        | String Manipulation                                                                           |
-| **TempConverter**              | Celsius/Fahrenheit utility.         | Floating Point Arithmetic                                                                     |
-| **WeightConverter**            | Unit conversion application.        | User Input, Calculations                                                                      |
-| **CgpaCalculator**             | 3 Courses cgpa Calculator.          | User Input, Calculations,                                                                     |
-| **SimpleBasicCalculator**      | Simple basic arithemetic Calulator. | User Input, Operators, Switches, nested if statements                                         |
+| Project                           | Description                         | Core Concepts                                                                                 |
+|:----------------------------------|:------------------------------------|:----------------------------------------------------------------------------------------------|
+| **Age Checker**                   | Validates user age for eligibility. | Conditional Logic (`if/else`)                                                                 |
+| **Area Of Circle Calculator**     | Geometric computation tool.         | Math Functions, Constants                                                                     |
+| **Compound Interest Calculator**  | Financial math simulator.           | User Input, Power (`pow`), Calculations                                                       |
+| **LogIn System**                  | Basic secure access simulation.     | Integer Handling,Read Inputs, Formats Specifiers,Validation,Conditional Logic (`if/else`)     |
+| **SignUp Login System**           | More advanced secure access(Basic). | Input,Integer Handling,Format specifiers,Validation,Read Inputs,Conditional Logic (`if/else`) |
+| **Student Grading System**        | Automates academic grading.         | Logical Operators                                                                             |
+| **Student Siwes Email Generator** | Auto-generates Siwes emails.        | String Manipulation                                                                           |
+| **Temp Converter**                | Celsius/Fahrenheit utility.         | Floating Point Arithmetic                                                                     |
+| **Weight Converter**              | Unit conversion application.        | User Input, Calculations                                                                      |
+| **Cgpa Calculator**               | 3 Courses cgpa Calculator.          | User Input, Calculations,                                                                     |
+| **Simple Basic Calculator**       | Simple basic arithemetic Calulator. | User Input, Operators, Switches, nested if statements                                         |
+| **Student Record System**         | Intermediate Student Record system  | Inputs, Outputs,File Handling, Memory Managements,Loops,Pointers, Addresses                   |
+| **Multiplication Table**          | Simple Multiplication Table         | for loops, nested for loops                                                                   |
 
 ---
 
